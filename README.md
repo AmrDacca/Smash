@@ -3,14 +3,15 @@
 This project was implemented during the course Operating Systems in of which we were asked to implement a working like shell with changes to some functionality of some commands of the shell and keeping others to work as is
 
 
-#How-To-Run
+
+# How To Run
 
 1.download all the files
 2. complie using the make file
 3. run the command ./smash
 
 
-#The-changes-made-to-the-shell
+# The changes made to the shell
 
 fg command  usage:
 fg [job-id]
