@@ -9,7 +9,7 @@ This project was implemented during the course Operating Systems in of which we 
  1.download all the files
 
 
-2. complie using the make file
+2. complie using the make command
 
 
 3. run the command ./smash
