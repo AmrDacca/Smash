@@ -6,7 +6,7 @@ This project was implemented during the course Operating Systems in of which we 
 
 # How To Run
 
-1.download all the files
+ 1.download all the files
 
 
 2. complie using the make file
