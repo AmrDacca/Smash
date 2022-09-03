@@ -1,6 +1,6 @@
 # Smash
 
-This project was implemented during the course Operating Systems in of which we were asked to implement a working like shell with changes to some functionality of some commands of the shell and keeping others to work as is
+This project was implemented during the course Operating Systems in of which we were asked to implement a working like shell with changes to some functionality of some commands of the shell (less options to some commands) and keeping other commands to work similar normal shell
 
 
 
